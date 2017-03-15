@@ -1,0 +1,9 @@
+[template]
+src   = "trackstudio.hibernate.properties"
+dest  = "/ts/etc/trackstudio.hibernate.properties"
+uid = 0
+gid = 0
+mode  = "0644"
+keys = [
+  "/",
+]

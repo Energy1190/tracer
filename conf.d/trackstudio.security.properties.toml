@@ -1,0 +1,9 @@
+[template]
+src   = "trackstudio.security.properties"
+dest  = "/ts/etc/trackstudio.security.properties"
+uid = 0
+gid = 0
+mode  = "0644"
+keys = [
+  "/",
+]

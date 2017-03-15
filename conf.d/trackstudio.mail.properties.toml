@@ -1,0 +1,9 @@
+[template]
+src   = "trackstudio.mail.properties"
+dest  = "/ts/etc/trackstudio.mail.properties"
+uid = 0
+gid = 0
+mode  = "0644"
+keys = [
+  "/",
+]

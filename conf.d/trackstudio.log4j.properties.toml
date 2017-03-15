@@ -1,0 +1,9 @@
+[template]
+src   = "trackstudio.log4j.properties"
+dest  = "/ts/etc/trackstudio.log4j.properties"
+uid = 0
+gid = 0
+mode  = "0644"
+keys = [
+  "/",
+]
